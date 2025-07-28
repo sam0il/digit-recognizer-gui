@@ -3,7 +3,7 @@
 This is a simple handwritten digit recognizer using a convolutional neural network trained on the MNIST dataset. It includes a Tkinter-based GUI where you can draw digits and get predictions from the trained model.
 
 > **Note:**  
-> This project is intended as a **test/demo** to explore basic AI model integration with a GUI. The accuracy is decent but not production-ready.
+> This project is intended as a **Learning Project** to explore basic AI model integration with a GUI. The accuracy is decent but not production-ready.
 
 ## Features
 
